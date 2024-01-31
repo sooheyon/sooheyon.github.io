@@ -1,4 +1,4 @@
-import Image from "next/image";
+"use client"
 import { useRouter } from "next/navigation";
 import { useEffect } from "react";
 
